@@ -3,8 +3,7 @@
 #### Narwhal Industries
 #### Benjamin City TV
 #### Radio Cruithne
-#### Worldtree Publishing
-I am looking for projects that I can help with. 
+#### Worldtree Publishing 
 
 <!--
 **FullCustom/FullCustom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
