@@ -1,4 +1,8 @@
-### Hello World
+### About My Projects Companies
+#### Full Custom Music Repair
+#### Narwhal Industries
+#### Benjamin City TV
+#### Worldtree Publishing
 I am looking for projects that I can help with. 
 
 <!--
